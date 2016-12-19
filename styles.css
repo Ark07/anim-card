@@ -1,0 +1,39 @@
+ #card {
+          box-shadow: 10px 10px 50px -10px black;
+          width:306px;
+          length:500px;
+          border: 2px solid lightgrey ;
+          padding: 10px;
+          float: left;
+          margin: 5px;
+          background: aliceblue;
+ }
+ .heading{
+          font-weight: bold;
+          font-family: sans-serif, Arial;
+        }
+
+ .image{
+         padding: 3px;
+  }
+
+.information{
+          font-size: 78%;
+          border: 1px solid lightgrey;
+          padding: 10px;
+          margin: 5px;
+}
+
+ .facts{
+         font-style: italic;
+         padding: 2px;
+ }
+
+ ul    {
+         list-style-type:none;
+         padding: 2px;
+ }
+
+ span{
+         font-weight: bold;
+}
